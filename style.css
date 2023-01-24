@@ -95,3 +95,8 @@ h1 {
 footer p{
     text-align: center;
 }
+
+
+.push-right{
+    padding-left: 50px;
+}
